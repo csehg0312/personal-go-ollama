@@ -1,0 +1,22 @@
+{
+  "name": "personal-go-ollama",
+  "version": "0.0.1",
+  "description": "A project in purpose to show my work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "dotest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csehg0312/personal-go-ollama.git"
+  },
+  "keywords": [
+    "personal;blog;golang;restapi;ollama;work"
+  ],
+  "author": "csehg0312",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csehg0312/personal-go-ollama/issues"
+  },
+  "homepage": "https://github.com/csehg0312/personal-go-ollama#readme"
+}
